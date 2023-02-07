@@ -1,4 +1,4 @@
-# Football_Transfer_Market_Analysis_2022
+# Football Transfer Market Analysis 2022
 Analysis of the effect of Barclays Premiere League on club football.
 
 # Introduction
